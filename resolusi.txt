@@ -1,4 +1,5 @@
 list resolusi :
-- Belajar Framework baru
+- Belajar Framework php dan js baru
 - Mengerjakan project secara profesional
 - Mempunyai penghasilan yang tinggi :'v
+- Punya banyak teman
