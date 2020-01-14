@@ -1,5 +1,4 @@
 list resolusi :
-- Belajar GIT
 - Belajar Framework baru
 - Mengerjakan project secara profesional
 - Mempunyai penghasilan yang tinggi :'v
